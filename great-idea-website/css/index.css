@@ -64,3 +64,98 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+/* body {
+	padding: 0 5%;
+} */
+a {
+	text-decoration: none;
+	color: black;
+}
+
+address {
+	margin-bottom: 20px;
+}
+
+footer p {
+	margin: 10px 0;
+}
+
+h1 {
+	font-size: 60px;
+	line-height: 60px;
+	padding-bottom: 5px;
+}
+header {
+	width: 100%;
+	padding: 50px 0 50px 0;
+	text-align: center;
+}
+header a {
+	margin: 0 2.5%;
+	color: gray;
+	position: relative;
+	bottom: 10px;
+
+}
+
+.copyright-p {
+	text-align: center;
+	margin-top: 50px;
+}
+
+.logo {	
+	margin-left: 25px;
+}
+.start-section {
+	border-bottom: 1px solid black;
+	margin-bottom: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+
+}
+.start-div {
+	text-align: center;
+	display: inline-block;
+	position: relative;
+	bottom: 50px;
+	margin: 0 5%;
+}
+.start-button {
+	border: 1px solid rgb(2, 2, 2);
+	width: 150px;
+	padding: 5px 20px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.start-img {
+	height: 350px;
+	margin: 0 5%;
+}
+
+.detail-section {
+	margin: 0 auto;
+	text-align: center;
+	border-bottom: 1px solid black;
+	padding-bottom: 30px;
+	margin-bottoM: 40px;
+}
+
+.detail-div {
+	display: inline-block;
+	width: 425px;
+	margin: 0 1.5%;
+	text-align: left;
+	margin-bottom: 15px;
+}
+
+.middle-img {
+	height: 175px;
+	width: 100%;
+	margin: 35px 0;
+}
+
+.threec {
+	width: 275px;
+}
+
